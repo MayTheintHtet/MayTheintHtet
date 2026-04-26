@@ -4,7 +4,7 @@ I am a Programming and Software Development student at LaGuardia Community Colle
 
 ## 🛠 What I'm learning right now
 
-- <TECHNOLOGY OR CONCEPT - e.g., "Git/GitHub">
+- TECHNOLOGY OR CONCEPT - e.g., "Git/GitHub"
 
 ## 🎯 What I'm working on
 
@@ -15,13 +15,13 @@ I am a Programming and Software Development student at LaGuardia Community Colle
 ## 📫 How to reach me
 
 - Email: <maytheinthtet98.mm@gmail.com>
-- LinkedIn: [<May Theint Htet>](<https://www.linkedin.com/in/may-theint-htet-1832591b2/>)
+- LinkedIn: <https://www.linkedin.com/in/may-theint-htet-1832591b2/>
 
 
 ## ⚡ A little more about me
 
-- 🎓 Enrolled at LaGuardia Community College (LGCC)
-- 💬 Ask me about <How can I balance studying and working on personal projects to get ready for internships and a full-time job? Also, what important skills do recruiters look for that many people don’t realize?>
+- 🎓 Enrolled at LaGuardia Community College (LAGCC)
+- 💬 Ask me about: How can I balance studying and working on personal projects to get ready for internships and a full-time job? Also, what important skills do recruiters look for that many people don’t realize?
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: I prefer noodle to rice.
 
